@@ -23,7 +23,7 @@ export function FeaturesSection() {
               Premium <span className="text-gradient-vibrant">Intelligence</span>
             </h2>
             <p className="text-xl text-slate-600 max-w-xl font-medium leading-relaxed">
-              Everything you need to make informed decisions, included in the ₹5,999/year plan.
+              Everything you need to make informed decisions, included in the ₹499/year plan.
             </p>
           </div>
           <div className="hidden md:block pb-2">

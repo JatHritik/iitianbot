@@ -112,7 +112,7 @@ export function HeroSection({ onStart }: HeroSectionProps) {
           >
             <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:animate-[shimmer_1.5s_infinite]" />
             <Sparkles className="mr-2 h-6 w-6" />
-            <span className="font-bold tracking-wide text-xl">Get Access ₹5,999</span>
+            <span className="font-bold tracking-wide text-xl">Get Access ₹499</span>
             <ArrowRight className="ml-2 h-6 w-6 group-hover:translate-x-1 transition-transform" />
           </Button>
 
