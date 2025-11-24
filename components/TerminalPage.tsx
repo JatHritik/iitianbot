@@ -78,7 +78,6 @@ export function TerminalPage({ onBack }: TerminalPageProps) {
             </div>
             <div>
                <span className="font-heading font-bold text-slate-900 block leading-none text-lg">IITIAN TRADING BOT</span>
-               <span className="text-xs font-mono text-slate-500 uppercase tracking-wider font-semibold">Pro Terminal v1.0</span>
             </div>
           </div>
         </div>
