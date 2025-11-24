@@ -14,7 +14,7 @@ const faqs = [
   },
   {
     question: 'How many charts can I upload?',
-    answer: 'With the ₹499/year active plan, you can upload unlimited charts for analysis. There are no daily or monthly limits—analyze as many stocks as you need to support your educational learning journey.',
+    answer: 'With the ₹4999/year active plan, you can upload unlimited charts for analysis. There are no daily or monthly limits—analyze as many stocks as you need to support your educational learning journey.',
   },
   {
     question: 'What is the accuracy of the strategy engine?',
